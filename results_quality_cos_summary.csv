@@ -1,0 +1,10 @@
+Dataset,Perturbation,BRISQUE_Orig,BRISQUE_Pert,Δ(BRISQUE),COS_Avg,N_BRISQUE_Orig,N_COS_Pairs
+Digiface1M,makeup,31.638,31.679,+0.040,0.804,300,300
+Digiface1M,illum_blur_noise,31.638,43.425,+11.787,0.405,300,300
+Digiface1M,adversarial,31.638,12.047,-19.591,0.540,300,300
+SFHQ,makeup,23.274,36.372,+13.099,0.795,300,300
+SFHQ,illum_blur_noise,23.274,54.187,+30.913,0.854,300,300
+SFHQ,adversarial,23.274,5.887,-17.387,0.275,300,300
+CelebA,makeup,21.241,21.710,+0.469,0.749,300,300
+CelebA,illum_blur_noise,21.241,42.587,+21.346,0.716,300,300
+CelebA,adversarial,21.241,10.004,-11.236,0.088,300,300
